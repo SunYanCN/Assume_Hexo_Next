@@ -16,7 +16,7 @@ Hexo Next主题博客搭建和优化指南
 - [x] 动态背景——>B站视频
 - [x] [博客背景图片](https://blog.csdn.net/wang631106979/article/details/51375184)
 - [x] 点击爆炸 或者点击心型——>B站视频  [教程](https://blog.csdn.net/qq_33699981/article/details/72716951)
-- [x] [博客宠物live2D](https://www.imooc.com/article/details/id/37826)
+- [x] [博客动画宠物live2D](https://www.imooc.com/article/details/id/37826) [宠物预览](https://www.jianshu.com/p/832b3706cebe)
 - [x] 侧边栏社交栏——>B站视频
 - [x] 友情链接——>B站视频
 - [x] [博客字体字号和代码字体字号修改](https://www.dingxuewen.com/2017/03/11/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%89/)
@@ -47,6 +47,10 @@ Hexo Next主题博客搭建和优化指南
 ### 在线LaTeX编辑器
 
 - [x] http://latex.codecogs.com/eqneditor/editor.php
+
+### 其他
+
+- [x] [短网址](http://dwz.cn/)
 
 ## 问题
 
